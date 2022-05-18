@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bartoszmalecki90@gmail.com**
 
-- ⚡ Fun facts **I love football, metal music and fantasy.  **
+- ⚡ Fun facts **I love football, metal music and fantasy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
