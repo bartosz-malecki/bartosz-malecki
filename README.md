@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartosz-malecki&label=Profile%20views&color=0e75b6&style=flat" alt="bartosz-malecki" /> </p>
 
-- 🌱 I’m currently learning **React.js, Typescript.**
+- 🌱 I’m currently learning **Python.**
 
 - 👨‍💻 All of my projects are available at [https://bartosz-malecki.github.io/](https://bartosz-malecki.github.io/)
 
